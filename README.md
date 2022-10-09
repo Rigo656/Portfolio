@@ -20,7 +20,7 @@
 
 **Мои работы:**
 
-1) [Дипломный проект](https://github.com/Rigo656/Diplom-QA.git) в рамках которого автоматизировала тестирование сервиса по покупке билетов с помощью оплаты дебетовой карты и с помощью получения кредита
+1) [Дипломный проект](https://github.com/Rigo656/Diplom-QA.git) в рамках которого автоматизировал тестирование сервиса по покупке билетов с помощью оплаты дебетовой карты и с помощью получения кредита
 2) Пример составления [тест-кейсов](https://docs.google.com/spreadsheets/d/1FafKEIzj6WEFcY0IBKfHAcFC884LueVXfWellRf0QKQ/edit?usp=sharing) для проверки фронтенда
 3) Пример оформления [баг-репортов](https://docs.google.com/spreadsheets/d/12meGjuId5Jc1oFN7YmK7p8sWQ4eseSbiSc8DbACq3XA/edit?usp=sharing)
 4) Пример написания [чек-листа](https://docs.google.com/spreadsheets/d/1mmdsbrDRB2iTU2PLKo4PLUbRJ78zjgOPr9_0XdGq7OQ/edit?usp=sharing)
